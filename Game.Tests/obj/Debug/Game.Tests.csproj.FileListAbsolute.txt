@@ -1,0 +1,9 @@
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Game.Tests.dll
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Game.Tests.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Game.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Game.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\obj\Debug\Game.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\obj\Debug\Game.Tests.dll
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game.Tests\obj\Debug\Game.Tests.pdb

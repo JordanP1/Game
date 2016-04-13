@@ -1,0 +1,11 @@
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.EntityControl.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.SkillsControl.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.GameWindow.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
